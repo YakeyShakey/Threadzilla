@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Jake",
+	"description":	{
+		"":	"Generates a cutsom thread pattern from user inputs."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
